@@ -63,5 +63,26 @@ This part was pretty simple, just put two holes and extrude. It took me about 30
 
 <img src="Media/Caster_Part_7.png" width="250">
 
+## Subassembly - Wheel & Axle
+
+### Lesson Learned
+This was my first time using Onshape for an assembly and I will say I like it jsut as much as I did SolidWorks. I have to get used to the mate connectors and selecting the right one, but this is very easy and it takes many less mates. The animation feature for the revolve mates is really cool so you can see if you do it right.
+
+### Picture
+
+<img src="Media/Caster_Sub_Assembly.png" width="250">
+
+## Assembly - Caster
+
+### Lesson Learned
+With this I finally finished the Caster Assignment. I found it really helpful in learning the basics of Onshape and I hope to figure out more things to do with it. I did go against teh grain and make every part and assembly in 1 document. This was really helpful because I got to see just how easy it is for you to access something when building towards a goal. I am putting a picture in to show how easy it was to access parts when making the assembly. The revolve mates got easier this time but they were still relatively hard to put in.
+
+### Picture
+
+<img src="Media/Caster_Assembly.png" width="250"> <img src="Media/Caster_Assignment.png" width="250">
+
+
+
+
 
 
