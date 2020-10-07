@@ -85,17 +85,32 @@ With this I finally finished the Caster Assignment. I found it really helpful in
 
 ## Onshape Challenge
 
-## Lesson Learned
+### Lesson Learned
 
 The vast array of functions and mates int Onshape makes doing CAD very easy. I had trouble at first understanding the cylindrical mates, but they turned out to be very beneficial. I also didn't know what a thin feature was. The Thin Feature was a great idea implemented by Onshape and it helps make complicated pieces much easier. I probably will use the thin feature/thicken tool again.
 
 Link to Document:
 https://cvilleschools.onshape.com/documents/b9e1ab871ec1772c3eea9db0/w/8efde8e652d39148fc7691c0/e/e0aa4f456a71eb82edaefef3
 
-## Pictures
+### Pictures
 
 <img src="Media/Cube.png" width="250">                        <img src="Media/Spinner_Shaft.png" width="250">
 <img src="Media/Bracket.png" width="250">                       <img src="Media/Onshape_Challenge.png" width="250">
+
+
+# Dorothy's Dowel Pins
+
+## Dorothy's Dowel Pins
+
+### Lesson Learned
+
+This lesson I learned a lot about configurations. I had lots of trouble with configurations in SolidWorks, but it seems Onshape mitigates the issues I had by being much more effective with how you use them. The configurations of the dowel pins was a great lesson to help me learn how to configure and even the configuring of the Block helped me understand how you can do so much with only 1 part.
+
+### Pictures
+
+<img src="Media/Dowel_Pins.png" width="250">      <img src="Media/Wood_Block.png" width="250">     <img src="Media/Assembly_Dowel_Pins.png" width="250">
+
+
 
 
 
