@@ -81,6 +81,23 @@ With this I finally finished the Caster Assignment. I found it really helpful in
 
 <img src="Media/Caster_Assembly.png" width="250"> <img src="Media/Caster_Assignment.png" width="250">
 
+# Onshape Challenge
+
+## Onshape Challenge
+
+## Lesson Learned
+
+The vast array of functions and mates int Onshape makes doing CAD very easy. I had trouble at first understanding the cylindrical mates, but they turned out to be very beneficial. I also didn't know what a thin feature was. The Thin Feature was a great idea implemented by Onshape and it helps make complicated pieces much easier. I probably will use the thin feature/thicken tool again.
+
+Link to Document:
+https://cvilleschools.onshape.com/documents/b9e1ab871ec1772c3eea9db0/w/8efde8e652d39148fc7691c0/e/e0aa4f456a71eb82edaefef3
+
+## Pictures
+
+<img src="Media/Cube.png" width="250">                        <img src="Media/Spinner_Shaft.png" width="250">
+<img src="Media/Bracket.png" width="250">                       <img src="Media/Onshape_Challenge.png" width="250">
+
+
 
 
 
