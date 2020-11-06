@@ -110,9 +110,19 @@ This lesson I learned a lot about configurations. I had lots of trouble with con
 
 <img src="Media/Dowel_Pins.png" width="250">      <img src="Media/Wood_Block.png" width="250">     <img src="Media/Assembly_Dowel_Pins.png" width="250">
 
+# Onshape Collaboration Challenge
 
+### Description
 
+I collaborated with my group to make this project (Me, Eve, Imogen, Phillip). We didn't finish the assembly during class so outside of class I decided to finish it up to make it look like the actual product Dr. Shields provided. I didn't have much trouble making parts in this challenge because I have warmed up to onshape by this point.
 
+### Link
+
+https://cvilleschools.onshape.com/documents/f0c1e316156705e3acf99ecf/w/1f49cf877b12c9047327cc5a/e/7a296a5c61abd587be8e0d1a
+
+### Picture
+
+<img src="Media/Collaboration_Challenge.png" width="250"> 
 
 
 
